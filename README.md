@@ -1,2 +1,1 @@
-# Classifier
-Sample code on Machine Learning
+## Samle Code on Machine Learning with Python

@@ -1,2 +1,3 @@
-# Classifier
-Sample code on Machine Learning
+## Classifier
+
+### Sample Code on Machine Learning with Python

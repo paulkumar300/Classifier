@@ -1,1 +1,0 @@
-## Samle Code on Machine Learning with Python
